@@ -9,6 +9,7 @@ WhisperNotifier는 월드 오브 워크래프트(WoW)에서 귓말을 수신할 
 - 알림 메시지, 글자 크기, 위치 등 사용자 설정 가능
 - 테스트 알림 기능 제공
 - 음소거(Mute) 기능
+- 볼륨 조절 기능
 
 ## 설치 방법
 1. 이 저장소를 다운로드하거나 압축을 풉니다.
@@ -21,12 +22,9 @@ WhisperNotifier는 월드 오브 워크래프트(WoW)에서 귓말을 수신할 
 
 ## 파일 설명
 - `whispernotifier.lua`: 애드온의 주요 기능을 담당하는 Lua 스크립트
+- `whispernotifier_config.lua`: 애드온의 설정을 담당하는 Lua 스크립트
 - `whispernotifier.toc`: 애드온의 메타 정보 및 파일 목록
-- `Art/Icon/WhisperNotifier.png`: 애드온 아이콘 이미지
+- `whispernotifier.png`: 애드온 아이콘 이미지
 
 ## 라이선스
 All Rights Reserved
-
-## 문의
-Author: Gink
-문의 및 피드백은 GitHub 이슈를 통해 남겨주세요.

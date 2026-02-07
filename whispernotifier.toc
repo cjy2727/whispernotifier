@@ -8,4 +8,5 @@
 ## X-License: All Rights Reserved
 ## SavedVariables: WhisperNotifierDB
 
+whispernotifier_config.lua
 WhisperNotifier.lua
